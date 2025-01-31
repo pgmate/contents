@@ -17,3 +17,7 @@ American clinical trials full dataset.
 ~12Tb
 
 https://aact.ctti-clinicaltrials.org/
+
+## Various sample datasets
+
+https://github.com/morenoh149/postgresDBSamples
