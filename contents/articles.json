@@ -1,0 +1,71 @@
+{
+  "description": "Data source for displaying articles in PGMate",
+  "authors": [
+    {
+      "id": "pgmate",
+      "name": "PGMate",
+      "url": "https://pgmate.github.io"
+    }
+  ],
+  "tags": [
+    {
+      "id": "product-updates",
+      "title": "Product Updates",
+      "desc": "Follow the growth of PGMate"
+    },
+    {
+      "id": "reddit",
+      "title": "Reddit",
+      "desc": "Interesing discussions from Reddit"
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "desc": "Tools and resources for PostgreSQL developers"
+    }
+  ],
+  "items": [
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "cdate": "2025-02-02",
+      "media": "reddit",
+      "url": "https://www.reddit.com/r/PostgreSQL/comments/1ig02hs/postgres_alternative_to_mongodb/",
+      "title": "Postgres alternative to MongoDB",
+      "tags": ["tools"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174001",
+      "cdate": "2025-02-03",
+      "media": "web",
+      "url": "https://www.instagres.com",
+      "title": "Spin a temporary PostgreSQL database in the cloud for free",
+      "tags": ["tools"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174002",
+      "cdate": "2025-02-01",
+      "media": "web",
+      "url": "https://pgmate.github.io/blog/updates-week5",
+      "title": "PGMate Product Updates - Week 5",
+      "tags": ["product-updates"],
+      "author": ["pgmate"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174003",
+      "cdate": "2025-01-25",
+      "media": "youtube",
+      "url": "https://youtu.be/hAvWcbox7BE",
+      "title": "PGMate Copilot POC",
+      "tags": ["product-updates"],
+      "author": ["pgmate"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174004",
+      "cdate": "2025-02-04",
+      "media": "web",
+      "url": "https://explain.depesz.com/",
+      "title": "Visual PostgreSQL EXPLAIN tool",
+      "tags": ["tools"]
+    }
+  ]
+}
