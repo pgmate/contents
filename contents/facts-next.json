@@ -1,6 +1,6 @@
 {
   "__desc": "Data source for PostgreSQL facts.",
-  "fatcs": [
+  "facts": [
     {
       "title": "Born in 1986",
       "description": "PostgreSQL originated as a research project at UC Berkeley and was originally called POSTGRES (Post Ingres).",
