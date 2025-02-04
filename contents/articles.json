@@ -1,5 +1,5 @@
 {
-  "description": "Data source for displaying articles in PGMate",
+  "__desc": "Data source for displaying articles in PGMate",
   "authors": [
     {
       "id": "pgmate",
@@ -24,7 +24,7 @@
       "desc": "Tools and resources for PostgreSQL developers"
     }
   ],
-  "items": [
+  "articles": [
     {
       "id": "123e4567-e89b-12d3-a456-426614174000",
       "cdate": "2025-02-02",
