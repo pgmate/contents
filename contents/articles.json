@@ -48,7 +48,7 @@
       "url": "https://pgmate.github.io/blog/updates-week5",
       "title": "PGMate Product Updates - Week 5",
       "tags": ["product-updates"],
-      "author": ["pgmate"]
+      "authors": ["pgmate"]
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174003",
@@ -57,7 +57,7 @@
       "url": "https://youtu.be/hAvWcbox7BE",
       "title": "PGMate Copilot POC",
       "tags": ["product-updates"],
-      "author": ["pgmate"]
+      "authors": ["pgmate"]
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174004",
