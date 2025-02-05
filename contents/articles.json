@@ -38,7 +38,8 @@
       "cdate": "2025-02-03",
       "media": "web",
       "url": "https://www.instagres.com",
-      "title": "Spin a temporary PostgreSQL database in the Cloud for free",
+      "title": "Free temporary PostgreSQL",
+      "excerpt": "Free service from Neon.tech that let you spin a temporary PostgreSQL database that is accessible over the Internet.",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPmRDwFXROCRHwkwZuBEQBzhQQ5n43gU90Q&s",
       "tags": ["tools"]
     },
@@ -58,6 +59,7 @@
       "media": "youtube",
       "url": "https://youtu.be/hAvWcbox7BE",
       "title": "PGMate Copilot POC",
+      "excerpt": "This is a proof of concept for PGMate Copilot - generate queries and evolve your database schema with context-aware AI",
       "tags": ["product-updates"],
       "authors": ["pgmate"]
     },
@@ -66,7 +68,8 @@
       "cdate": "2025-02-04",
       "media": "web",
       "url": "https://explain.depesz.com/",
-      "title": "Visual PostgreSQL EXPLAIN tool",
+      "title": "EXPLAIN Made Easy",
+      "excerpt": "Visual PostgreSQL EXPLAIN tool that helps you understand what's going on with your queries.",
       "tags": ["tools"]
     }
   ]
