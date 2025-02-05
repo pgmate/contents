@@ -71,6 +71,33 @@
       "title": "EXPLAIN Made Easy",
       "excerpt": "Visual PostgreSQL EXPLAIN tool that helps you understand what's going on with your queries.",
       "tags": ["tools"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174005",
+      "cdate": "2025-01-15",
+      "media": "web",
+      "url": "https://stokerpostgresql.blogspot.com/2025/01/how-does-postgresql-store-your-data.html",
+      "title": "How Does PostgreSQL Store Your Data?",
+      "excerpt": "The following is peeking into the 'clockworks' to see how things are done.",
+      "tags": ["advanced"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174006",
+      "cdate": "2025-01-12",
+      "media": "youtube",
+      "url": "https://youtu.be/FyyL6KBbIno?si=KRD--hyPBRaCxKZt",
+      "title": "Reducing table size with optimal column ordering",
+      "excerpt": "In this video we discuss how to optimize the row size in Postgres to reduce the overall table size. Specifically, we take a look at how column ordering affects storage size, how you can play column tetris to optimize it, and the big benefits that array-based storage can yield for some workloads.",
+      "tags": ["advanced"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174007",
+      "cdate": "2023-11-23",
+      "media": "youtube",
+      "url": "https://youtu.be/0qs-isIR4-M?si=4UhjYdGscItDACNl",
+      "title": "How to use CREATE STATISTICS to improve a plan rows estimate",
+      "excerpt": "In this video we're going to talk about creating functional dependency statistics to improve plan cost estimates in Postgres. We’re looking at a problem that I myself encountered last week when I was trying to optimize the estimates we're getting for a particular query inside our own system.",
+      "tags": ["advanced"]
     }
   ]
 }
