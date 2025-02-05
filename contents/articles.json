@@ -1,6 +1,6 @@
 {
   "__desc": "Data source for displaying articles in PGMate",
-  "authors": [
+  "sources": [
     {
       "id": "pgmate",
       "name": "PGMate",
@@ -51,7 +51,7 @@
       "title": "PGMate Product Updates - Week 5",
       "cover": "https://pgmate.github.io/assets/images/upstream-downstream-9f1acc2c182d1f57f8fb61b7251557a1.png",
       "tags": ["product-updates"],
-      "authors": ["pgmate"]
+      "sources": ["pgmate"]
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174003",
@@ -61,7 +61,7 @@
       "title": "PGMate Copilot POC",
       "excerpt": "This is a proof of concept for PGMate Copilot - generate queries and evolve your database schema with context-aware AI",
       "tags": ["product-updates"],
-      "authors": ["pgmate"]
+      "sources": ["pgmate"]
     },
     {
       "id": "123e4567-e89b-12d3-a456-426614174004",
