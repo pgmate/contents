@@ -38,7 +38,8 @@
       "cdate": "2025-02-03",
       "media": "web",
       "url": "https://www.instagres.com",
-      "title": "Spin a temporary PostgreSQL database in the cloud for free",
+      "title": "Spin a temporary PostgreSQL database in the Cloud for free",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPmRDwFXROCRHwkwZuBEQBzhQQ5n43gU90Q&s",
       "tags": ["tools"]
     },
     {
@@ -47,6 +48,7 @@
       "media": "web",
       "url": "https://pgmate.github.io/blog/updates-week5",
       "title": "PGMate Product Updates - Week 5",
+      "cover": "https://pgmate.github.io/assets/images/upstream-downstream-9f1acc2c182d1f57f8fb61b7251557a1.png",
       "tags": ["product-updates"],
       "authors": ["pgmate"]
     },
